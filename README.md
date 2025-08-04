@@ -124,7 +124,7 @@ Pull requests are welcome. If you find a typo or want to add improvements, feel 
 
 **Krushna Chandra Bindhani**
 B.Tech (CSE), Final Year | Aspiring Data Scientist
-[GitHub](https://github.com/Krushna-Chandra) | [LinkedIn](https://linkedin.com/in/krushnachandrabindhani)
+[GitHub](https://github.com/Krushna-Chandra) | [LinkedIn](https://www.linkedin.com/in/krushna-chandra-bindhani-1b1342275/)
 
 ---
 
